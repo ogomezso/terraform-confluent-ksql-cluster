@@ -40,5 +40,7 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_ksql_cluster"></a> [ksql\_cluster](#output\_ksql\_cluster) | Service Account |
 <!-- END_TF_DOCS -->
