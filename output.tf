@@ -1,4 +1,4 @@
-// Service Account
+// Ksql Cluster Info
 output "ksql_cluster" {
   value = {
     ksql_cluster_id   = confluent_ksql_cluster.ksql.id

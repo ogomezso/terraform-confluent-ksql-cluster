@@ -42,5 +42,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_ksql_cluster"></a> [ksql\_cluster](#output\_ksql\_cluster) | Service Account |
+| <a name="output_ksql_cluster"></a> [ksql\_cluster](#output\_ksql\_cluster) | Ksql Cluster Info |
 <!-- END_TF_DOCS -->
